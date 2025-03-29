@@ -1,0 +1,672 @@
+.ISCTE-a-inicio {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ISCTE-a-inicio .overlap-wrapper {
+    background-color: #ffffff;
+    height: 667px;
+    overflow: hidden;
+    width: 375px;
+  }
+  
+  .ISCTE-a-inicio .overlap {
+    height: 667px;
+    position: relative;
+    width: 379px;
+  }
+  
+  .ISCTE-a-inicio .group {
+    height: 667px;
+    left: 0;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 376px;
+  }
+  
+  .ISCTE-a-inicio .div {
+    height: 668px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 378px;
+  }
+  
+  .ISCTE-a-inicio .element {
+    height: 667px;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    width: 375px;
+  }
+  
+  .ISCTE-a-inicio .rectangle {
+    background-color: #ffffff;
+    height: 187px;
+    left: 0;
+    opacity: 0.67;
+    position: absolute;
+    top: 0;
+    width: 378px;
+  }
+  
+  .ISCTE-a-inicio .rectangle-2 {
+    background-color: #0d28c2;
+    height: 94px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+    width: 357px;
+  }
+  
+  .ISCTE-a-inicio .bitmap {
+    height: 32px;
+    left: 87px;
+    object-fit: cover;
+    position: absolute;
+    top: 31px;
+    width: 205px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper {
+    color: #0d28c2;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 103px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .um-espa-o-para-cresc {
+    color: #000000;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 132px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .overlap-group-wrapper {
+    height: 348px;
+    left: 0;
+    position: absolute;
+    top: 86px;
+    width: 379px;
+  }
+  
+  .ISCTE-a-inicio .overlap-2 {
+    background-color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0px -3px 6px #00000026;
+    height: 350px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 377px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-2 {
+    color: #324eec;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 159px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+  }
+  
+  .ISCTE-a-inicio .group-2 {
+    height: 63px;
+    left: 21px;
+    position: absolute;
+    top: 65px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .div-wrapper {
+    border: 1px solid;
+    border-color: #3f5af680;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .margaridasa {
+    color: #000000;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 9px;
+    width: 315px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-3 {
+    color: #324eec;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .ISCTE-a-inicio .group-copy {
+    height: 63px;
+    left: 21px;
+    position: absolute;
+    top: 148px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-4 {
+    color: #696e77;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 9px;
+    width: 315px;
+  }
+  
+  .ISCTE-a-inicio .group-3 {
+    height: 40px;
+    left: 21px;
+    position: absolute;
+    top: 231px;
+    width: 337px;
+  }
+  
+  .ISCTE-a-inicio .overlap-3 {
+    background-color: #0d28c2;
+    height: 42px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 124px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 90px;
+  }
+  
+  .ISCTE-a-inicio .esqueci-me-da-palavr {
+    color: #0d28c2;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 89px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 291px;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-2 {
+    -webkit-backdrop-filter: blur(40.77px) brightness(100%);
+    backdrop-filter: blur(40.77px) brightness(100%);
+    background-color: #d5d7dded;
+    height: 291px;
+    left: 0;
+    position: absolute;
+    top: 376px;
+    width: 375px;
+  }
+  
+  .ISCTE-a-inicio .overlap-4 {
+    height: 283px;
+    position: relative;
+    top: 8px;
+  }
+  
+  .ISCTE-a-inicio .bars-home-indicators-iphone-light-portrait {
+    background-color: unset !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 249px !important;
+    width: 375px !important;
+  }
+  
+  .ISCTE-a-inicio .bars-home-indicators-instance {
+    left: 120px !important;
+  }
+  
+  .ISCTE-a-inicio .keys {
+    height: 259px;
+    left: 3px;
+    position: absolute;
+    top: 0;
+    width: 369px;
+  }
+  
+  .ISCTE-a-inicio .dictation {
+    height: 25px;
+    left: 327px;
+    position: absolute;
+    top: 233px;
+    width: 15px;
+  }
+  
+  .ISCTE-a-inicio .emoji {
+    height: 27px;
+    left: 22px;
+    position: absolute;
+    top: 232px;
+    width: 27px;
+  }
+  
+  .ISCTE-a-inicio .return {
+    height: 42px;
+    left: 281px;
+    position: absolute;
+    top: 162px;
+    width: 88px;
+  }
+  
+  .ISCTE-a-inicio .label-wrapper {
+    background-image: url(./background.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 43px;
+    position: relative;
+  }
+  
+  .ISCTE-a-inicio .label {
+    color: #000000;
+    font-family: "SFProText-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 88px;
+  }
+  
+  .ISCTE-a-inicio .space {
+    height: 42px;
+    left: 93px;
+    position: absolute;
+    top: 162px;
+    width: 182px;
+  }
+  
+  .ISCTE-a-inicio .overlap-5 {
+    background-image: url(./image.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 43px;
+    position: relative;
+  }
+  
+  .ISCTE-a-inicio .label-2 {
+    color: #000000;
+    font-family: "SFProText-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 182px;
+  }
+  
+  .ISCTE-a-inicio .element-2 {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 162px;
+    width: 87px;
+  }
+  
+  .ISCTE-a-inicio .overlap-6 {
+    background-image: url(./background-2.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 43px;
+    position: relative;
+  }
+  
+  .ISCTE-a-inicio .label-3 {
+    color: #000000;
+    font-family: "SFProText-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 87px;
+  }
+  
+  .ISCTE-a-inicio .delete {
+    height: 42px;
+    left: 327px;
+    position: absolute;
+    top: 108px;
+    width: 42px;
+  }
+  
+  .ISCTE-a-inicio .overlap-7 {
+    height: 42px;
+    position: relative;
+  }
+  
+  .ISCTE-a-inicio .key-light {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 42px;
+  }
+  
+  .ISCTE-a-inicio .overlap-group-2 {
+    background-image: url(./background-3.svg);
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 43px;
+    position: relative;
+  }
+  
+  .ISCTE-a-inicio .label-4 {
+    color: #000000;
+    font-family: "SFProText-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: -0.32px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    top: 11px;
+    width: 42px;
+  }
+  
+  .ISCTE-a-inicio .delete-button {
+    height: 17px;
+    left: 10px;
+    position: absolute;
+    top: 13px;
+    width: 23px;
+  }
+  
+  .ISCTE-a-inicio .shift {
+    height: 42px;
+    left: 0;
+    position: absolute;
+    top: 108px;
+    width: 42px;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-iphone-x-light-keys-letter-large {
+    background-color: unset !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+    width: 42px !important;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-instance {
+    width: 44px !important;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-iphone-x-light-keys-letter-large-instance {
+    left: 21px !important;
+  }
+  
+  .ISCTE-a-inicio .img {
+    height: 16px;
+    left: 12px;
+    position: absolute;
+    top: 12px;
+    width: 19px;
+  }
+  
+  .ISCTE-a-inicio .m {
+    background-color: unset !important;
+    left: 282px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .design-component-instance-node {
+    left: 7px !important;
+  }
+  
+  .ISCTE-a-inicio .n {
+    background-color: unset !important;
+    left: 244px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-3 {
+    left: 9px !important;
+  }
+  
+  .ISCTE-a-inicio .b {
+    background-color: unset !important;
+    left: 206px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-4 {
+    left: 10px !important;
+  }
+  
+  .ISCTE-a-inicio .v {
+    background-color: unset !important;
+    left: 169px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .c {
+    background-color: unset !important;
+    left: 131px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .x {
+    background-color: unset !important;
+    left: 94px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .z {
+    background-color: unset !important;
+    left: 56px !important;
+    position: absolute !important;
+    top: 108px !important;
+  }
+  
+  .ISCTE-a-inicio .l {
+    background-color: unset !important;
+    left: 319px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .system-keyboards-5 {
+    left: 11px !important;
+  }
+  
+  .ISCTE-a-inicio .k {
+    background-color: unset !important;
+    left: 281px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .j {
+    background-color: unset !important;
+    left: 244px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .h {
+    background-color: unset !important;
+    left: 206px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .g {
+    background-color: unset !important;
+    left: 169px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .f {
+    background-color: unset !important;
+    left: 131px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .d {
+    background-color: unset !important;
+    left: 94px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .s {
+    background-color: unset !important;
+    left: 56px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .a {
+    background-color: unset !important;
+    left: 19px !important;
+    position: absolute !important;
+    top: 54px !important;
+  }
+  
+  .ISCTE-a-inicio .p {
+    background-color: unset !important;
+    left: 337px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .o {
+    background-color: unset !important;
+    left: 300px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .i {
+    background-color: unset !important;
+    left: 262px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .i-2 {
+    left: 14px !important;
+  }
+  
+  .ISCTE-a-inicio .u {
+    background-color: unset !important;
+    left: 225px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .y {
+    background-color: unset !important;
+    left: 187px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .t {
+    background-color: unset !important;
+    left: 150px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .r {
+    background-color: unset !important;
+    left: 112px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .e {
+    background-color: unset !important;
+    left: 75px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .w {
+    background-color: unset !important;
+    left: 37px !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .ISCTE-a-inicio .w-2 {
+    left: 6px !important;
+  }
+  
+  .ISCTE-a-inicio .q {
+    background-color: unset !important;
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  

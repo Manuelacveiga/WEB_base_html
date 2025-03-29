@@ -1,0 +1,505 @@
+.ISCTE-b-inicio {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ISCTE-b-inicio .div {
+  background-color: #ffffff;
+  height: 667px;
+  position: relative;
+  width: 375px;
+}
+
+.ISCTE-b-inicio .header-default-instance {
+  background-image: url(./logo-ISCTE-instituto-universita-rio-de-lisboa.png) !important;
+  left: 0 !important;
+  position: absolute !important;
+  top: 0 !important;
+}
+
+.ISCTE-b-inicio .design-component-instance-node {
+  background-image: unset !important;
+  background-size: unset !important;
+}
+
+.ISCTE-b-inicio .navigation-menu {
+  height: 55px;
+  left: 0;
+  position: absolute;
+  top: 612px;
+  width: 375px;
+}
+
+.ISCTE-b-inicio .overlap {
+  height: 57px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 377px;
+}
+
+.ISCTE-b-inicio .rectangle-copy {
+  background-color: #ffffff;
+  box-shadow: 0px 0px 10px #24263026;
+  height: 52px;
+  left: 0;
+  position: absolute;
+  top: 5px;
+  width: 377px;
+}
+
+.ISCTE-b-inicio .overlap-wrapper {
+  height: 25px;
+  left: 310px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.ISCTE-b-inicio .overlap-group {
+  height: 16px;
+  left: 4px;
+  position: relative;
+  top: 6px;
+  width: 16px;
+}
+
+.ISCTE-b-inicio .combined-shape {
+  height: 13px;
+  left: 3px;
+  position: absolute;
+  top: 3px;
+  width: 13px;
+}
+
+.ISCTE-b-inicio .group-copy {
+  height: 13px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 13px;
+}
+
+.ISCTE-b-inicio .image-wrapper {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 10px;
+  height: 15px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 15px;
+}
+
+.ISCTE-b-inicio .image {
+  height: 7px;
+  left: 2px;
+  position: absolute;
+  top: 3px;
+  width: 7px;
+}
+
+.ISCTE-b-inicio .pagamentos {
+  color: #0d28c2;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 7px;
+  font-weight: 500;
+  left: 293px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 59px;
+}
+
+.ISCTE-b-inicio .group-wrapper {
+  height: 25px;
+  left: 243px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.ISCTE-b-inicio .overlap-group-wrapper {
+  height: 17px;
+  left: 3px;
+  position: relative;
+  top: 6px;
+  width: 19px;
+}
+
+.ISCTE-b-inicio .overlap-group-2 {
+  height: 18px;
+  position: relative;
+  width: 20px;
+}
+
+.ISCTE-b-inicio .path {
+  height: 14px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.ISCTE-b-inicio .img {
+  height: 6px;
+  left: 12px;
+  position: absolute;
+  top: 12px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .oval {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 4px;
+  height: 8px;
+  left: 10px;
+  position: absolute;
+  top: 6px;
+  width: 8px;
+}
+
+.ISCTE-b-inicio .line {
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 4px;
+  width: 15px;
+}
+
+.ISCTE-b-inicio .line-copy {
+  height: 1px;
+  left: 2px;
+  position: absolute;
+  top: 6px;
+  width: 7px;
+}
+
+.ISCTE-b-inicio .curso {
+  color: #0d28c2;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 7px;
+  font-weight: 500;
+  left: 226px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 59px;
+}
+
+.ISCTE-b-inicio .div-wrapper {
+  height: 25px;
+  left: 109px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.ISCTE-b-inicio .group-2 {
+  height: 15px;
+  left: 3px;
+  position: relative;
+  top: 6px;
+  width: 19px;
+}
+
+.ISCTE-b-inicio .overlap-group-3 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  height: 17px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 21px;
+}
+
+.ISCTE-b-inicio .rectangle {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 1px;
+  height: 3px;
+  left: 13px;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-2 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 1px;
+  height: 3px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-3 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 1px;
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: 6px;
+  width: 3px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-4 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 1px;
+  height: 3px;
+  left: 13px;
+  position: absolute;
+  top: 10px;
+  width: 3px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-5 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 1px;
+  height: 3px;
+  left: 8px;
+  position: absolute;
+  top: 10px;
+  width: 3px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-6 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  border-radius: 1px;
+  height: 3px;
+  left: 3px;
+  position: absolute;
+  top: 10px;
+  width: 3px;
+}
+
+.ISCTE-b-inicio .rectangle-2 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  height: 6px;
+  left: -1px;
+  position: absolute;
+  top: -1px;
+  width: 21px;
+}
+
+.ISCTE-b-inicio .calend-rio {
+  color: #0d28c2;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 7px;
+  font-weight: 500;
+  left: 92px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 59px;
+}
+
+.ISCTE-b-inicio .group-3 {
+  height: 25px;
+  left: 42px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.ISCTE-b-inicio .div-2 {
+  height: 19px;
+  left: 3px;
+  position: relative;
+  top: 3px;
+  width: 19px;
+}
+
+.ISCTE-b-inicio .overlap-group-4 {
+  height: 20px;
+  position: relative;
+  width: 20px;
+}
+
+.ISCTE-b-inicio .path-2 {
+  height: 11px;
+  left: 2px;
+  position: absolute;
+  top: 9px;
+  width: 16px;
+}
+
+.ISCTE-b-inicio .path-3 {
+  height: 12px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.ISCTE-b-inicio .rectangle-3 {
+  border: 1px solid;
+  border-color: #0d28c2;
+  height: 5px;
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .home {
+  color: #0d28c2;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 7px;
+  font-weight: 500;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 59px;
+}
+
+.ISCTE-b-inicio .rectangle-4 {
+  background-color: #0d28c2;
+  box-shadow: 0px 0px 10px #2426304d;
+  height: 57px;
+  left: 154px;
+  position: absolute;
+  top: 0;
+  width: 69px;
+}
+
+.ISCTE-b-inicio .group-copy-wrapper {
+  height: 25px;
+  left: 176px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.ISCTE-b-inicio .rectangle-5 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 7px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-7 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 7px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-8 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 7px;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-9 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-10 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-11 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 0;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-12 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 14px;
+  position: absolute;
+  top: 0;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-13 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 14px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .rectangle-copy-14 {
+  border: 1px solid;
+  border-color: #ffffff;
+  border-radius: 1px;
+  height: 5px;
+  left: 14px;
+  position: absolute;
+  top: 14px;
+  width: 5px;
+}
+
+.ISCTE-b-inicio .menu {
+  color: #ffffff;
+  font-family: "Montserrat-Bold", Helvetica;
+  font-size: 7px;
+  font-weight: 700;
+  left: 159px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 41px;
+  width: 59px;
+}

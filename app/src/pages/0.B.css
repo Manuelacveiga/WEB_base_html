@@ -1,0 +1,171 @@
+.ISCTE-b-inicio {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.ISCTE-b-inicio .overlap-wrapper {
+  background-color: #ffffff;
+  height: 667px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.ISCTE-b-inicio .overlap {
+  height: 667px;
+  position: relative;
+  width: 376px;
+}
+
+.ISCTE-b-inicio .group {
+  height: 667px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 0;
+  width: 376px;
+}
+
+.ISCTE-b-inicio .overlap-group {
+  height: 668px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 378px;
+}
+
+.ISCTE-b-inicio .element {
+  height: 667px;
+  left: 1px;
+  position: absolute;
+  top: 1px;
+  width: 375px;
+}
+
+.ISCTE-b-inicio .rectangle {
+  background-color: #ffffff;
+  height: 187px;
+  left: 0;
+  opacity: 0.67;
+  position: absolute;
+  top: 0;
+  width: 378px;
+}
+
+.ISCTE-b-inicio .div {
+  background-color: #0d28c2;
+  height: 94px;
+  left: 20px;
+  position: absolute;
+  top: 0;
+  width: 357px;
+}
+
+.ISCTE-b-inicio .bitmap {
+  height: 32px;
+  left: 87px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: 205px;
+}
+
+.ISCTE-b-inicio .text-wrapper {
+  color: #0d28c2;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 20px;
+  font-weight: 500;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 103px;
+  width: 335px;
+}
+
+.ISCTE-b-inicio .um-espa-o-para-cresc {
+  color: #000000;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 132px;
+  width: 335px;
+}
+
+.ISCTE-b-inicio .group-copy {
+  height: 75px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 467px;
+  width: 335px;
+}
+
+.ISCTE-b-inicio .overlap-2 {
+  background-color: #ffffff;
+  border-radius: 5px;
+  height: 77px;
+  left: -1px;
+  position: relative;
+  top: -1px;
+  width: 337px;
+}
+
+.ISCTE-b-inicio .text-wrapper-2 {
+  color: #000000;
+  font-family: "Montserrat-Regular", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 42px;
+  width: 275px;
+}
+
+.ISCTE-b-inicio .desktop-icons {
+  height: 20px !important;
+  left: 306px !important;
+  position: absolute !important;
+  top: 29px !important;
+  width: 20px !important;
+}
+
+.ISCTE-b-inicio .text-wrapper-3 {
+  color: #0d28c2;
+  font-family: "Montserrat-Medium", Helvetica;
+  font-size: 16px;
+  font-weight: 500;
+  left: 21px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 18px;
+  width: 275px;
+}
+
+.ISCTE-b-inicio .overlap-group-wrapper {
+  height: 75px;
+  left: 20px;
+  overflow: hidden;
+  position: absolute;
+  top: 552px;
+  width: 335px;
+}
+
+.ISCTE-b-inicio .blue-right {
+  height: 20px !important;
+  left: 306px !important;
+  position: absolute !important;
+  top: 28px !important;
+  width: 20px !important;
+}

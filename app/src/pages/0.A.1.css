@@ -1,0 +1,305 @@
+.ISCTE-a-inicio {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .ISCTE-a-inicio .overlap-wrapper {
+    background-color: #ffffff;
+    height: 667px;
+    overflow: hidden;
+    width: 375px;
+  }
+  
+  .ISCTE-a-inicio .overlap {
+    height: 680px;
+    left: -145px;
+    position: relative;
+    width: 524px;
+  }
+  
+  .ISCTE-a-inicio .group {
+    height: 667px;
+    left: 145px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    width: 376px;
+  }
+  
+  .ISCTE-a-inicio .overlap-group {
+    height: 668px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 378px;
+  }
+  
+  .ISCTE-a-inicio .element {
+    height: 667px;
+    left: 1px;
+    position: absolute;
+    top: 1px;
+    width: 375px;
+  }
+  
+  .ISCTE-a-inicio .rectangle {
+    background-color: #ffffff;
+    height: 187px;
+    left: 0;
+    opacity: 0.67;
+    position: absolute;
+    top: 0;
+    width: 378px;
+  }
+  
+  .ISCTE-a-inicio .div {
+    background-color: #0d28c2;
+    height: 94px;
+    left: 20px;
+    position: absolute;
+    top: 0;
+    width: 357px;
+  }
+  
+  .ISCTE-a-inicio .bitmap {
+    height: 32px;
+    left: 87px;
+    object-fit: cover;
+    position: absolute;
+    top: 31px;
+    width: 205px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper {
+    color: #0d28c2;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 20px;
+    font-weight: 500;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 103px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .um-espa-o-para-cresc {
+    color: #000000;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 22px;
+    letter-spacing: 0;
+    line-height: 22px;
+    position: absolute;
+    text-align: center;
+    top: 132px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .overlap-group-wrapper {
+    height: 581px;
+    left: 145px;
+    position: absolute;
+    top: 86px;
+    width: 379px;
+  }
+  
+  .ISCTE-a-inicio .overlap-2 {
+    background-color: #ffffff;
+    border-radius: 10px 10px 0px 0px;
+    box-shadow: 0px -3px 6px #00000026;
+    height: 583px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+    width: 377px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-2 {
+    color: #324eec;
+    font-family: "Montserrat-SemiBold", Helvetica;
+    font-size: 20px;
+    font-weight: 600;
+    left: 159px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 21px;
+    white-space: nowrap;
+  }
+  
+  .ISCTE-a-inicio .group-2 {
+    height: 63px;
+    left: 21px;
+    position: absolute;
+    top: 65px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .div-wrapper {
+    border: 1px solid;
+    border-color: #3f5af680;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 23px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-3 {
+    color: #696e77;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 9px;
+    letter-spacing: 0;
+    line-height: 21px;
+    position: absolute;
+    top: 9px;
+    width: 315px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-4 {
+    color: #324eec;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .ISCTE-a-inicio .group-copy {
+    height: 63px;
+    left: 21px;
+    position: absolute;
+    top: 148px;
+    width: 335px;
+  }
+  
+  .ISCTE-a-inicio .group-3 {
+    height: 40px;
+    left: 21px;
+    position: absolute;
+    top: 231px;
+    width: 337px;
+  }
+  
+  .ISCTE-a-inicio .overlap-3 {
+    background-color: #0d28c2;
+    height: 42px;
+    left: -1px;
+    position: relative;
+    top: -1px;
+  }
+  
+  .ISCTE-a-inicio .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Montserrat-Medium", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 124px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 12px;
+    width: 90px;
+  }
+  
+  .ISCTE-a-inicio .esqueci-me-da-palavr {
+    color: #0d28c2;
+    font-family: "Montserrat-Regular", Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    left: 89px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 291px;
+  }
+  
+  .ISCTE-a-inicio .logo-ISCTE-instituto {
+    height: 117px;
+    left: 209px;
+    position: absolute;
+    top: 425px;
+    width: 311px;
+  }
+  
+  .ISCTE-a-inicio .logo-ISCTE-instituto-2 {
+    height: 117px;
+    left: 0;
+    opacity: 0.4;
+    position: absolute;
+    top: 563px;
+    width: 452px;
+  }
+  
+  .ISCTE-a-inicio .path {
+    height: 22px;
+    left: 198px;
+    position: absolute;
+    top: 1915px;
+    width: 57px;
+  }
+  
+  .ISCTE-a-inicio .rectangle-2 {
+    background-color: #ccd3e0;
+    height: 95px;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 20px;
+    width: 21px;
+  }
+  
+  .ISCTE-a-inicio .img {
+    height: 91px;
+    left: -142px;
+    position: absolute;
+    top: 1900px;
+    width: 105px;
+  }
+  
+  .ISCTE-a-inicio .path-2 {
+    height: 104px;
+    left: 257px;
+    position: absolute;
+    top: 0;
+    width: 83px;
+  }
+  
+  .ISCTE-a-inicio .shape {
+    height: 84px;
+    left: 352px;
+    position: absolute;
+    top: 20px;
+    width: 100px;
+  }
+  
+  .ISCTE-a-inicio .rectangle-3 {
+    background-color: #ccd3e0;
+    height: 7px;
+    left: 0;
+    opacity: 0.6;
+    position: absolute;
+    top: 1px;
+    width: 21px;
+  }
+  
+  .ISCTE-a-inicio .path-3 {
+    height: 84px;
+    left: 150px;
+    position: absolute;
+    top: 20px;
+    width: 98px;
+  }
+  
